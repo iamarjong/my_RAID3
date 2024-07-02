@@ -1,1 +1,1 @@
-practice9c_raid.c 編譯出來的  practice9c_raid.exe 會被主程式呼叫。 而 practice9c_raid 做的事情是將若干個檔案 {file_1,....file_{N}} 的每個位元做位元xor運算。 而這裡的 file_1,..., file_{N} 是從輸入檔案 file  切割成 N 份來的。 這裡要注意的是，為了使 N 個檔案大小一樣，必須在最後一個檔案末尾填入一些位元。 
+practice9c_raid.c 編譯出來的  practice9c_raid.exe 會被主程式(未上傳) 呼叫。 而 practice9c_raid 做的事情是將若干個檔案 {file_1,....file_{N}} 的每個位元做位元xor運算。 而這裡的 file_1,..., file_{N} 是從輸入檔案 file  切割成 N 份來的。 這裡要注意的是，為了使 N 個檔案大小一樣，必須在最後一個檔案末尾填入一些位元。 
